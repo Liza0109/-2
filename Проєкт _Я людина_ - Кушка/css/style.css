@@ -1,0 +1,263 @@
+body{
+    background: lightskyblue;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 940px;
+    height: 1650px;
+    background: linear-gradient(blue, violet);
+    margin: 0 auto;
+    padding: 15px 10px;
+}
+.left{
+    width: 315px;
+    height: 760px;
+    border-radius: 10px;
+    background: rgba(196, 196, 196, 0.3);
+    padding: 25px;
+    float: left;
+}
+.header_box{
+width: 155px;
+height: 110px;
+border: 1px;
+float: right;
+text-align: center;
+margin: 0px 20px 20px 10px;
+}
+.last-name{
+    font-size: 14px; 
+    line-height: 18px; 
+    color:#CECACA;
+}
+.name{
+    font-size: 26px;
+    line-height: 32px; 
+    color: #FFFFFF;
+}
+.age{
+    font-size: 10px;
+    line-height: 9px; 
+    color: #CECACA; 
+    font-weight:bold;
+}
+.type{
+    width: 285px;
+height: 104px;
+ background: rgba(196, 196, 196, 0.35);
+border-radius: 10px; 
+padding:10px;
+margin: 5px 10px;
+clear: both;
+color: white;
+}
+.logo{
+    width:110px;
+     height:110px;
+     border-radius:100% ;
+     float:left;
+     
+}
+.type2{
+    width: 285px;
+height: 124px;
+ background: rgba(196, 196, 196, 0.35);
+border-radius: 10px;
+ padding:10px;
+ margin: 5px 10px;
+clear: both;
+color: white;
+}
+.right{
+    width: 560px;
+    height: 1600px;
+    border-radius: 10px;
+    background: white;
+    float: left;
+    margin-left: 5px;
+}
+p{
+    color: white;
+    font-size: 20px;
+
+}
+.type p{
+    margin: 5px;
+}
+h1{
+    color: white;
+    font-size: 20px;
+}
+.hobby{
+    width: 315px;
+    height: 120px;
+}
+h3{
+    width: 67px;
+    height: 32px;
+    border-radius: 10px;
+    color: white;
+    background: rgba(196, 196, 196, 0.3);
+}
+.type2 h1{
+    margin: 5px;
+}
+.m1{
+    width: 22px;
+    height: 20px;
+    margin: 0 ;
+    float: left;
+    font-size: 12px;
+}
+.m2{
+    width: 22px;
+    height: 20px;
+    margin: 15px;
+    float: left;
+    font-size: 12px;
+}
+.hobby-itm{
+    width: auto;
+    height: 40px;
+}
+.contacts{
+    width: 285px;
+    height: 180px;
+    clear: both;
+    margin: 10px auto;
+}
+.contact_item{
+    width: 285px;
+    height: 40px;
+    background: rgba(207, 207, 207, 0.5);
+    margin: 5px auto;
+    padding: 8px;  
+}
+.contact_img{
+width: 20px;
+height: 20px;
+float: left;
+margin-right: 10px;
+;
+    }
+    .contact_text{
+        width: 220px;
+        height: 20px;
+        float: left;
+        color: white;
+        line-height: 20px;
+        
+    }
+    .socials{
+        width: 150px;
+        height: 40px;
+        margin: 0 auto;
+       
+    }
+    .social_item{
+        width: 30px;
+        height: 30px;
+        margin: 5px;
+        
+        float: left;
+        padding: 2px;
+    }
+    .social_img{
+        width: 25px;
+        height: 25px;
+        margin: 0 auto;
+    }
+.title_box{
+    width: 530px;
+    height: 25px;
+    background: rgb(192, 190, 190);
+    margin: 20px;
+}
+.title{
+    width: 170px;
+    height: 24px;
+    border-radius: 5px;
+    float: left;
+    background: rgb(72, 71, 71);
+}
+h2{
+    color: white;
+    text-align: center;
+}
+.line{
+    width: 374px;
+    height: 1px;
+    background: black;
+    border: 1px;
+    float: left;
+}
+.item1{
+    width: 530px;
+    height: 160px;
+    background: rgb(192, 190, 190);
+    margin: 20px;
+}
+ul{
+    margin-left: 25px;
+}
+.item2{
+    width: 530px;
+    height: 320px;
+    background: rgb(192, 190, 190);
+    margin: 20px;
+
+}
+.item3{
+    width: 530px;
+    height: 670px;
+    background: rgb(192, 190, 190);
+    margin: 20px;
+}
+.w1{
+color: black;
+font-size: medium;
+}
+.w2{
+    font-size: medium;
+    color: black;
+}
+.kt{
+    color: black;
+    font-size: medium;
+}
+h5{
+    color: white;
+    font-size: medium;
+    text-align: center;
+}
+.item4{
+    width: 530px;
+    height: 155px;
+    border: 2px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+table{
+    width: 500px;
+    height: 70px;
+    border: 2px solid black;
+    border-style: solid;
+}
+td{
+    border: 2px solid black;
+    
+}
+.lq{
+    background: rgb(146, 201, 255);
+}
+.r{
+    color: rgb(255, 255, 255);
+    background: red;
+}
+.k5{
+    font-size: medium;
+    color: black;
+}
